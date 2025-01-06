@@ -3,7 +3,6 @@ This repository is a collection of programming challenges designed to enhance pr
 
 **Purpose**
 The goal is to provide a platform for practicing coding through diverse challenges. By solving these problems, you'll:
-
 Strengthen problem-solving and critical thinking.
 Gain experience with different algorithms and data structures.
 Improve coding skills in various languages.
